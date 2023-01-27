@@ -1,7 +1,7 @@
 import dash
 from dash import html, dcc
 import flask
-from layout_template import layout
+from layout_1 import layout
 
 app = dash.Dash(__name__)
 app.layout = layout
