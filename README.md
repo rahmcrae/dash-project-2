@@ -7,6 +7,11 @@
 ##### :sparkles: Create interactive visuals
 
 ---
+## Todos:
+- [X] ~Create simple visual~
+* [X] Create interactive visuals (needs refactoring)
+
+---
 
 #### Screenshots 
 
@@ -16,7 +21,3 @@ APP-1: Simple scatter plot depicting eruption intervals & durations
 APP-2: Another simple scatter plot depicting mpg by model & year of make
 <img width="1379" alt="Screenshot 2023-01-26 at 8 36 10 PM" src="https://user-images.githubusercontent.com/63305557/214991258-d77022e1-b795-4896-8071-bb7ddf46ef9f.png">
 
----
-## Todos:
-- [X] ~Create simple visual~
-* [X] Create interactive visuals (needs refactoring)
