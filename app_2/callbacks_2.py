@@ -5,8 +5,7 @@ import pandas as pd
 from numpy import random
 
 # Create a DataFrame from the .csv file:
-#df = pd.read_csv('../data/mpg.csv')
-df = pd.read_csv('/Users/rah/Desktop/github/DASH/dash-project-2/data/mpg.csv')
+df = pd.read_csv('../data/mpg.csv')
 
 # Add a random "jitter" to model_year to spread out the plot
 df['year'] = df['model_year'] + random.randint(-4,5,len(df))*0.10
